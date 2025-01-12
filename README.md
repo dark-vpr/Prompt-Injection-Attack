@@ -1,4 +1,4 @@
-# Simulate the prompt injection attack to a publicly available Computer Use AI agent from Anthropic
+# AI Prompt Injection Vulnerability Simulation
 
 ---
 
